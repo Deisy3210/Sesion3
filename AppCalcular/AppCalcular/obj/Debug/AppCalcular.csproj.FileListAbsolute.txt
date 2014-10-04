@@ -1,0 +1,5 @@
+c:\users\lab104bpc21\documents\visual studio 2012\Projects\AppCalcular\AppCalcular\bin\Debug\AppCalcular.exe.config
+c:\users\lab104bpc21\documents\visual studio 2012\Projects\AppCalcular\AppCalcular\bin\Debug\AppCalcular.exe
+c:\users\lab104bpc21\documents\visual studio 2012\Projects\AppCalcular\AppCalcular\bin\Debug\AppCalcular.pdb
+c:\users\lab104bpc21\documents\visual studio 2012\Projects\AppCalcular\AppCalcular\obj\Debug\AppCalcular.exe
+c:\users\lab104bpc21\documents\visual studio 2012\Projects\AppCalcular\AppCalcular\obj\Debug\AppCalcular.pdb
